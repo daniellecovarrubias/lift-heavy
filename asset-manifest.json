@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lift-heavy/static/css/main.a617e044.chunk.css",
+    "main.js": "/lift-heavy/static/js/main.3e0b86ac.chunk.js",
+    "main.js.map": "/lift-heavy/static/js/main.3e0b86ac.chunk.js.map",
+    "runtime-main.js": "/lift-heavy/static/js/runtime-main.db041ef4.js",
+    "runtime-main.js.map": "/lift-heavy/static/js/runtime-main.db041ef4.js.map",
+    "static/js/2.67ec3fe6.chunk.js": "/lift-heavy/static/js/2.67ec3fe6.chunk.js",
+    "static/js/2.67ec3fe6.chunk.js.map": "/lift-heavy/static/js/2.67ec3fe6.chunk.js.map",
+    "static/js/3.c267ca6c.chunk.js": "/lift-heavy/static/js/3.c267ca6c.chunk.js",
+    "static/js/3.c267ca6c.chunk.js.map": "/lift-heavy/static/js/3.c267ca6c.chunk.js.map",
+    "index.html": "/lift-heavy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/lift-heavy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.67ec3fe6.chunk.js.LICENSE.txt": "/lift-heavy/static/js/2.67ec3fe6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lift-heavy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db041ef4.js",
+    "static/js/2.67ec3fe6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3e0b86ac.chunk.js"
+  ]
+}
